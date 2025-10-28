@@ -1,0 +1,1 @@
+# AWS-Streaming-Analytics-Pipeline-Kinesis-Firehose-Lambda-OpenSearch
